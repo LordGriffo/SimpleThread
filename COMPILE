@@ -1,0 +1,3 @@
+#Compile This Software!
+
+ex: gcc threads.c -g -O3 -lpthread
